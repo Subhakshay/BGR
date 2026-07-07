@@ -1,4 +1,4 @@
-# Bandgap Reference (BGR) Circuit — Self-Biased Current-Mirror (Widlar-Type) Design
+# Bandgap Reference (BGR) Circuit — Self-Biased Current-Mirror Design
 
 ---
 
